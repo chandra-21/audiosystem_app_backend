@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+.env
+.venv
+static/uploads/
+
+# ── Ditambahkan untuk publikasi ────────────────────────────────
+# Salinan ganda hasil ekstraksi arsip
+iotaudio_system_backend-main/
+
+# Basis data & unggahan pengguna
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+static/uploads/
+
+# Lingkungan virtual (pernah ikut ter-commit di riwayat lama)
+audio-systemenv/
+audiosystem-env/
+venv/
+.venv/
+
+# Tooling lokal
+.claude/
+.vscode/
+.idea/

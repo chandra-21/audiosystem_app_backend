@@ -1,0 +1,13 @@
+fastapi==0.124.4
+uvicorn==0.38.0
+python-multipart==0.0.20
+websockets==15.0.1
+SQLAlchemy==2.0.45
+pydantic==2.12.5
+passlib==1.7.4
+bcrypt==3.2.2
+pygame==2.6.1
+numpy==2.3.5
+scipy==1.16.3
+mutagen==1.47.0
+pyserial==3.5
